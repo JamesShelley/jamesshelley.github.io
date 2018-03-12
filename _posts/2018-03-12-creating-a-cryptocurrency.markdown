@@ -12,15 +12,15 @@ I will be discussing all of the specifics behind the coin at a later blog post.
 
 For now, you can keep up to date on the Boredcoin at my blog, as well as the below links.
 
-Cheers!
+Official Boredcoin Links
 
-[Boredcoin]
-[Boredcoin Discord]
-[Boredcoin Reddit]
-[Boredcoin Twitter]
+[Boredcoin][boredcoin]
+[Boredcoin Discord][boredcoin-discord]
+[Boredcoin Reddit][boredcoin-reddit]
+[Boredcoin Twitter][boredcoin-twitter]
 
-[Boredcoin]: http://boredcoin.org
-[Boredcoin Discord]: https://discord.gg/rhDrVTf
-[Boredcoin Reddit]: https://reddit.com/r/boredcoin
-[Boredcoin Twitter]: https://twitter.com/boredcoinorg
+[boredcoin]: http://boredcoin.org
+[boredcoin-discord]: https://discord.gg/rhDrVTf
+[boredcoin-reddit]: https://reddit.com/r/boredcoin
+[boredcoin-twitter]: https://twitter.com/boredcoinorg
 
