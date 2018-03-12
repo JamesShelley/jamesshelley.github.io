@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 <div class="man-title">
-  UP AND RUNNING WITH DevJournal
+  Welcome to my Blog
 </div>
 <div class="manual manual-title">
-  Posting
+  Info
   </div>
 <p>  <div class="manual-content">
 
@@ -20,9 +20,9 @@ permalink: /about/
         <div class="highlight">
         <pre>
           ---
-          layout: post | default | page
-          title:  String<span class="hint"> Post Title</span>
-          date:   Time Stamp
+          Name: James Shelley
+          Age:  21
+          D.O.B: 31/05/1996
           categories: String | Array of Strings<span class="hint"> Category / Categories </span>
           ---
         </pre>
